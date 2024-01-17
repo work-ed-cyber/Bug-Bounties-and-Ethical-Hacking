@@ -1,20 +1,20 @@
-<h1> Lesson 4.1: Introduction to Cryptography</h1>
+<h1> Lesson 5.5: Bug Bounties </h1>
 <h2> Summary</h2>
 
-<p1>In this lesson, students will be introduced to the fundamental cryptography concepts. They will explore its historical background and delve into basic encryption and decryption methods, focusing on the Caesar cipher as a hands-on example. By the end of the lesson, students should have a foundational understanding of how cryptographic methods have evolved and how they play a crucial role in modern cybersecurity.</p1>
+<p1>In this lesson, students will delve into the world of ethical hacking, exploring its financial prospects and societal implications. They will learn about the professional pathway of ethical hackers, the concept of bug bounties, and how organizations leverage these programs to enhance their security posture.</p1>
 <br>
 
 <h2>Learning Objectives</h2>
 <ul>
-<li>Understand the historical background and evolution of cryptography.</li>
+<li>Students will define ethical hacking and differentiate it from other forms of hacking.</li>
   <br>
-<li>Grasp the basic concepts, terms, and methods used in cryptography.</li><br>
+<li>Students will understand the qualifications and skills necessary to become an ethical hacker.</li><br>
   
-<li>Recognize the importance of cryptography in ensuring data confidentiality and integrity.</li><br>
+<li>Students will define what bug bounties are and understand their significance in identifying security vulnerabilities.</li><br>
 
 <li>Objective Summary and Learning Outcome.</li><br>
 
-<li>Hands-on experience with basic cryptographic techniques using the Caesar cipher</li>
+<li>Students will understand the legal boundaries within which ethical hacking and bug bounty programs operate.</li>
 </ul>
 
 <h2>Vocabulary and Acronyms</h2>
@@ -22,58 +22,83 @@
 <ul>
 <li>
 
-  **Cryptography**</li>
+  **Ethical Hacking**</li>
   
 <li>
 
-**Encryption**</li>
+**Responsible Disclosure**</li>
   
 <li>
   
-**Decryption**</li>
+**White Hat Hacker**</li>
   
 <li>
   
-**Caesar Cipher**</li>
+**Bug Bounty**</li>
   
 <li>
   
-  **Cipher**</li>
+  **CVE - Common Vulnerabilities and Exposures**</li>
   
 <li>
   
- **Plaintext**</li>
+ **Black Hat Hacker**</li>
+
+  <li>
   
+ **CVE/ID - CVE Identifier**</li>
+
+ <li>
+  
+ **Grey Hat Hacker**</li>
+
 </ul>
 
 <h2>NICE Framework KSAs</h2>
 
 <ul>
-<li>K0018	Knowledge of encryption algorithms</li>
+<li>K0427 - Knowledge of encryption algorithms and cyber capabilities/tools (e.g., SSL, PGP).</li>
 <br>
-<li>K0019	Knowledge of cryptography and cryptographic key management concepts</li>
+<li>S0138 - Skill in using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic).</li>
 <br>
-<li>K0190	Knowledge of encryption methodologies.</li>
+<li>K0018 - Knowledge of encryption algorithms.</li>
 <br>
-<li>K0196	Knowledge of Import/Export Regulations related to cryptography and other security technologies.</li>
+<li>K0624 - Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list).</li>
 <br>
-<li>K0305	Knowledge of data concealment (e.g., encryption algorithms and steganography).</li>
+<li>K0135 - Knowledge of web filtering technologies.</li>
 <br>
-<li>K0308	Knowledge of cryptology.</li>
+<li>K0398 - Knowledge of concepts related to websites (e.g., web servers/pages, hosting, DNS, registration, web languages such as HTML).</li>
 <br>
-<li>K0403	Knowledge of cryptologic capabilities, limitations, and contributions to cyber operations.</li>
+<li>K0444 - Knowledge of how Internet applications work (SMTP email, web-based email, chat clients, VOIP).</li>
 <br>
-<li>S0138	Skill using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic).</li> 
-<br>
-<li>S0164	Skill in assessing the application of cryptographic standards.</li>
+<li>K0447 - Knowledge of how to collect, view, and identify essential information on targets of interest from metadata (e.g., email, http).</li> 
 </ul>
 
 
 <h2>Lesson Prerequisites</h2>
-<p1>Any topical or subject matter to prepare for the lesson. In Advanced Cyber Lessons, previous Lessons can be referenced.
-
- </p1>
+<p1>Any topical or subject matter to prepare for the lesson. In Advanced Cyber Lessons, previous Lessons can be referenced. </p1>
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h2>1. Historical Background</h2>
