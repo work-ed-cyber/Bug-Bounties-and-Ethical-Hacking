@@ -103,40 +103,120 @@ Ethical hacking has emerged as a crucial cybersecurity profession. Organizations
 <h3><ins>Certifications</ins></h3>
 Acquiring certifications is a stepping stone towards establishing credibility in the field of ethical hacking. These certifications attest to one's skills and knowledge in cybersecurity and ethical hacking.
 <ul>
-  <li></li>
-  <li></li>
+  <li><ins>Certified Ethical Hacker (CEH)</ins></li>
+  <ul>
+    <li>Offered by EC-Council, the CEH certification equips individuals with the knowledge and skills to seek out vulnerabilities within an organization's systems.
+</li>
+    <li><a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/">CEH Certification Details</a></li>
+  </ul>
+  <br>
+  <li><ins>Offensive Security Certified Professional (OSCP)</ins></li>
+  <ul>
+    <li>This hands-on certification offered by Offensive Security tests one's ability to conduct penetration tests in a controlled environment.</li>
+    <li><a href="https://www.offensive-security.com/pwk-oscp/">OSCP Certification Details</a></li>
+  </ul>
 </ul>
 
 <h3><ins>Skill Sets</ins></h3>
+Proficiency in certain technical and soft skills is pivotal for a successful career in ethical hacking.
+<ul>
+<li><ins>Technical Skills</ins></li>
+<ul>
+<li>Knowledge of programming languages such as Python, JavaScript, and SQL.</li>
+<li>Proficiency in operating systems, particularly Linux.</li>
+<li>Understanding of networking and web technologies.</li>
+  </ul>
+<br>
+<li><ins>Soft Skills</ins></li>
+<ul>
+  <li>
+    
+  **Problem-Solving**: Ability to think like a hacker (creatively and analytically) to identify vulnerabilities.</li>
+  <li>
+
+  **Communication**: Effectively conveying findings and recommendations to non-technical stakeholders.</li>
+</ul>
+</ul>
 
 <h3><ins>Income Avenues</ins></h3>
+Ethical hackers have various avenues to ply their trade while making a significant impact in the realm of cybersecurity.
+<ul>
+  <br>
+<li><ins>Penetration Testing</ins></li>
+<ul>
+  <li>Conducting authorized simulated attacks to identify vulnerabilities in systems, networks, or applications.</li>
+  <br>
+</ul>
+<li><ins>Security Analysis</ins></li>
+<ul>
+  <li>Evaluating and ensuring the security of digital assets, and recommending measures to mitigate identified vulnerabilities.</li>
+  <br>
+</ul>
+<li><ins>Bug Bounty Hunting</ins></li>
+<ul>
+  <li>Participating in bug bounty programs to identify and report security vulnerabilities in exchange for rewards.
+</li>
+  <br>
+</ul>
+<li><ins>Cybersecurity Consulting</ins></li>
+<ul>
+  <li>Providing expertise and recommendations to organizations to bolster their cybersecurity posture.</li>
+  <br>
+</ul>
+<li><ins>Cybersecurity Training and Education</ins></li>
+<ul>
+  <li>Educating and training individuals or organizations on best practices in cybersecurity.</li>
+  <br>
+</ul>
+
+</ul>
 
 <h3><ins>Professional Associations and Communities</ins></h3>
+Joining professional associations and communities can foster networking, continuous learning, and staying updated on the latest trends and threats.<br>
+<br>
+<ul>
+  
+  <li><a href="https://www.isc2.org/">ISC2:</a> A global community of cybersecurity professionals.</li>
+  <br>
+  <li><a href="https://owasp.org/">OWASP:</a>Open Web Application Security Project, known for its top ten list of web security threats.</li>
+</ul>
+
 
 <h3><ins>Job Prospects</ins></h3>
 
+The demand for ethical hackers is soaring with the perpetual evolution of cyber threats.
 
+<ins>Job Titles:</ins>
+<ul>
+<li>Ethical Hacker</li>
+<li>Penetration Tester</li>
+<li>Security Consultant</li>
+<li>Security Analyst</li>
+</ul>
 
-
-
-
-
-
-
-
+<ins>Employment Sectors:</ins>
+<ul>
+<li>Financial Institutions</li>
+<li>Healthcare Organizations</li>
+<li>Government Agencies</li>
+<li>Tech Companies</li>
+</ul>
 
 
 
 <h2>Introduction to Bug Bounties</h2>
 Bug bounty programs are a collaborative initiative between companies and the ethical hacking community to identify vulnerabilities in systems, applications, or networks before malicious actors can exploit them.
-
-<h3><ins>Platforms</ins></h3>
 <ul>
-  <li><a href="https://www.hackerone.com/">HackerOne: </a>A leading bug bounty platform connecting businesses with ethical hackers. </li>
+<li><ins>Platforms</ins></li>
+  <br>
+<ul>
+  <li><a href="https://www.hackerone.com/">HackerOne: </a>A leading bug bounty platform connecting businesses with ethical hackers. </li><br>
+  
   <li><a href="https://www.bugcrowd.com/">Bugcrowd:</a> Another reputable platform facilitating bug bounty programs.</li>
+  <br>
 </ul>
 
-<h3><ins>Types of Bounties</ins></h3>
+<li><ins>Types of Bounties</ins></li>
 <ul>
   <li>
     
@@ -146,30 +226,23 @@ Bug bounty programs are a collaborative initiative between companies and the eth
   **Private Bounties**: Invitation-only, usually for experienced or specialized hackers.</li>
 </ul>
 
-<h3><ins>Rewards</ins></h3>
+<li><ins>Rewards</ins></li>
+<br>
 <ul>
   <li>Monetary rewards, swag, or points which can be used for recognition.</li>
 </ul>
-
-
-<h3><ins>Reporting Process</ins></h3>
+<br>
+<li><ins>Reporting Process</ins></li>
+<br>
 <ul>
   <li>Identifying a vulnerability, reporting it through the platform, and working with the company to provide more information if necessary.</li>
 </ul>
-
-
-
-
-
-
-
-
-
+</ul>
 
 <h2>Engagement in Bug Bounty Programs</h2>
-Active participation in bug bounty programs is a practical way to hone skills, contribute to cybersecurity, and earn rewards.
-
-<h3><ins>Process of Engagement</ins></h3>
+Active participation in bug bounty programs is a practical way to hone skills, contribute to cybersecurity, and earn rewards.<br>
+<ul>
+<li><ins>Process of Engagement</ins></li>
 <ul>
   <li>
     
@@ -186,64 +259,73 @@ Active participation in bug bounty programs is a practical way to hone skills, c
 </ul>
 
 
-<h3><ins>Examples</ins></h3>
+<li><ins>Examples</ins></li>
+<br>
 <ul>
   <li><a href="https://www.facebook.com/whitehat">Facebook Bug Bounty Program:</a> Facebook rewards ethical hackers for identifying vulnerabilities in its platforms.</li>
 </ul>
+</ul>
+</ul>
+
 
 
 <h2>Legal Frameworks Surrounding Ethical Hacking and Bug Bounties</h2>
 The legal landscape is crucial to ensure ethical hacking activities remain lawful and constructive.
 <ul>
-<li>Responsible Disclosure</li>
+<li><ins>Responsible Disclosure</ins></li>
+<br>
 <ul>
-
 <li>Reporting vulnerabilities directly to the organization and giving them time to fix the issue before public disclosure.</li>
+  <br>
 </ul>
 
-<li>Legal Agreements</li>
-
+<li><ins>Legal Agreements</ins></li>
+<br>
 <ul>
-<li>Adhering to Non-Disclosure Agreements (NDAs) and the terms of the bug bounty program.</li>
+<li>Adhering to Non-Disclosure Agreements (NDAs) and the terms of the bug bounty program.</li> 
+  <br>
 </ul>
 
-<li>Overstepping Legal Boundaries</li>
+<li><ins>Overstepping Legal Boundaries</ins></li>
+<br>
 <ul>
   <li>Understanding the repercussions of unauthorized access or testing outside the defined scope of a bug bounty program.</li>
 </ul>
+
 </ul>
-
-
-
-
-
-
-
-
-
 
 
 <h2>Evaluating Real-world Case Studies</h2>
-Analyzing real-world cases provides insights into the practical impact of ethical hacking and bug bounties.
-<h3><ins>Case Study</ins></h3>
+Analyzing real-world cases provides insights into the practical impact of ethical hacking and bug bounties.<br>
+<br>
 <ul>
-  <li><a href="https://www.hackerone.com/blog/hacker101-success-story">The tale of a bug bounty hunter’s first submission:</a>An inspiring journey of a bug bounty hunter.</li>
+<li><ins>Case Study</ins></li>
+  <br>
+<ul>
+  <li><a href="https://www.hackerone.com/blog/hacker101-success-story">The tale of a bug bounty hunter’s first submission:</a> An inspiring journey of a bug bounty hunter.</li>
 </ul>
+</ul>
+
+
 
 <h2>Practical Application and Hands-on Exploration</h2>
 Hands-on experiences are crucial for honing skills and understanding the real-world dynamics of ethical hacking and bug bounties.
-<h3><ins>Hands-on Platforms</ins></h3>
+<ul>
+<li><ins>Hands-on Platforms</ins></li>
+  <br>
 <ul>
   <li><a href="https://www.hackthebox.eu/">Hack The Box:</a> A platform offering various challenges for honing hacking skills.</li><br>
-  <br>
+
   <li><a href="https://ctftime.org/">CTF Time:</a> A platform hosting Capture The Flag (CTF) competitions.</li>
 </ul>
-
-<h3><ins>Simulated Ethical Hacking</ins></h3>
+<br>
+<li><ins>Simulated Ethical Hacking</ins></li>
+<br>
 <ul>
   <li>Engaging in controlled environments to practice ethical hacking skills, such as using VMs like Metasploitable.</li>
 </ul>
 
+</ul>
 
 <h2>Conclusion</h2>
 The synergy between ethical hacking and bug bounties is a robust mechanism to enhance cybersecurity. Through hands-on engagements, legal awareness, and collaborative efforts, the digital realm becomes a more secure frontier against cyber threats.
@@ -266,11 +348,7 @@ The synergy between ethical hacking and bug bounties is a robust mechanism to en
 
 
 <h2> Hands-On Labs</h2>
-<a href="https://youtu.be/jhXCTbFnK8o">Cryptography: Crash Course Computer Science #33</a> - Walkthru of common encryption techniques such as the Advanced Encryption Standard (AES), Diffie-Hellman Key Exchange, and RSA, which are employed to keep your information safe, private, and secure.<br>
-<br>
-<a href="https://youtu.be/-yFZGF8FHSg">The Science of Codes: An Intro to Cryptography</a> - Michael Aranda takes you through a fun and cryptic episode of SciShow, all about codes!<br>
-<br>
-<a href="https://curriculum.code.org/pwc/ayp/8/">Lesson 8: Cybersecurity - Simple Encryption</a> - Students try to crack a message encoded with the classic Caesar cipher and a Random Substitution Cipher.<br>
+
 
 <h2>Additonal Resources</h2>
-<a href="https://blog.cryptographyengineering.com/useful-cryptography-resources/">Cryptography Resources</a> - This page is an attempt to compile some of the top technical crypto and security blogs, textbooks, and websites. It's very much a work in progress.
+
