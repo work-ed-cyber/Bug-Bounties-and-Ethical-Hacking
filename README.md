@@ -57,21 +57,21 @@
 <h2>NICE Framework KSAs</h2>
 
 <ul>
-<li>K0427 - Knowledge of encryption algorithms and cyber capabilities/tools (e.g., SSL, PGP).</li>
+<li>K0427: Knowledge of encryption algorithms and cyber capabilities/tools (e.g., SSL, PGP).</li>
 <br>
-<li>S0138 - Skill in using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic).</li>
+<li>S0138: Skill in using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic).</li>
 <br>
-<li>K0018 - Knowledge of encryption algorithms.</li>
+<li>K0018: Knowledge of encryption algorithms.</li>
 <br>
-<li>K0624 - Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list).</li>
+<li>K0624: Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list).</li>
 <br>
-<li>K0135 - Knowledge of web filtering technologies.</li>
+<li>K0135: Knowledge of web filtering technologies.</li>
 <br>
-<li>K0398 - Knowledge of concepts related to websites (e.g., web servers/pages, hosting, DNS, registration, web languages such as HTML).</li>
+<li>K0398: Knowledge of concepts related to websites (e.g., web servers/pages, hosting, DNS, registration, web languages such as HTML).</li>
 <br>
-<li>K0444 - Knowledge of how Internet applications work (SMTP email, web-based email, chat clients, VOIP).</li>
+<li>K0444: Knowledge of how Internet applications work (SMTP email, web-based email, chat clients, VOIP).</li>
 <br>
-<li>K0447 - Knowledge of how to collect, view, and identify essential information on targets of interest from metadata (e.g., email, http).</li> 
+<li>K0447: Knowledge of how to collect, view, and identify essential information on targets of interest from metadata (e.g., email, http).</li> 
 </ul>
 
 
@@ -331,17 +331,31 @@ Hands-on experiences are crucial for honing skills and understanding the real-wo
 The synergy between ethical hacking and bug bounties is a robust mechanism to enhance cybersecurity. Through hands-on engagements, legal awareness, and collaborative efforts, the digital realm becomes a more secure frontier against cyber threats.
 
 
+<h2>Definitions</h2>
+<ul>
+<li><b>Ethical Hacking:</b> The practice of legally and ethically probing systems to identify and fix security vulnerabilities before malicious hackers can exploit them.<br>
+<br>
 
+<li><b>Responsible Disclosure:</b> The process of reporting a discovered security vulnerability to the affected organization privately and allowing them time to address the issue before making it public.<br>
+<br>
 
+<li><b>White Hat Hacker:</b> A cybersecurity professional who uses their skills to help organizations improve their security by finding and fixing vulnerabilities in a legal and ethical manner.<br>
+<br>
 
+<li><b>Bug Bounty:</b> A program offered by organizations that rewards individuals for discovering and reporting security vulnerabilities in their software or systems.<br>
+<br>
 
+<li><b>CVE (Common Vulnerabilities and Exposures):</b> A publicly disclosed database of known cybersecurity vulnerabilities and exposures, providing a reference for identifying and addressing security issues.<br>
+<br>
 
+<li><b>Black Hat Hacker:</b> A malicious actor who exploits security vulnerabilities for personal gain or to cause harm, operating outside legal and ethical boundaries.<br>
+<br>
 
+<li><b>CVE/ID (CVE Identifier):</b> A unique identifier assigned to a specific vulnerability or exposure in the CVE database, used to standardize and track security issues.<br>
+<br>
 
-
-
-
- 
+<li><b>Grey Hat Hacker:</b> A hacker who operates in a morally ambiguous area, often discovering vulnerabilities and reporting them without malicious intent but without explicit permission from the affected organization.
+</ul>
 
 
 <h2> Presentation</h2>
@@ -349,6 +363,6 @@ The synergy between ethical hacking and bug bounties is a robust mechanism to en
 
 <h2> Hands-On Labs</h2>
 
-
+<h2> Games</h2>
 <h2>Additonal Resources</h2>
 
