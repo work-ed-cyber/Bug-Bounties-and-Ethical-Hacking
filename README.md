@@ -362,6 +362,8 @@ The synergy between ethical hacking and bug bounties is a robust mechanism to en
 
 
 <h2> Hands-On Labs</h2>
+<a href="https://github.com/work-ed-cyber/5.5-easy/tree/main">Bug Bounty – Ethical Hacking and Network Scanning with NMAP </a> - Easy <br>
+<br>
 <a href="https://github.com/work-ed-cyber/5.5-medium"> Research Report on Bug Bounties and the Ethical Hacking Profession </a> - Medium
 
 <h2> Games</h2>
